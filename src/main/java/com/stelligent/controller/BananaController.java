@@ -29,7 +29,7 @@ import java.util.stream.Collectors;
 /**
  * REST service to handle the CRUD operations for a Banana
  */
-@RequestMapping("/banana")
+@RequestMapping("/bananas")
 @RestController
 public class BananaController {
 
